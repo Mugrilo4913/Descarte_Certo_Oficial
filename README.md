@@ -1,5 +1,8 @@
 # ♻️ DescarteCerto
 
+🌐 Acesse a organização oficial do projeto:
+https://github.com/DC-DescarteCerto
+
 O **DescarteCerto** é uma aplicação web (PWA - Progressive Web App) desenvolvida para transformar a gestão de resíduos sólidos domésticos por meio da tecnologia e da informação. 
 
 Este projeto nasceu como uma Ação Curricular de Extensão (ACEX) / Projeto Aplicado, criado por estudantes do curso de **Ciência da Computação do Centro Universitário Fundação Santo André (CUFSA)**, com foco inicial na região de Santo André (SP).
