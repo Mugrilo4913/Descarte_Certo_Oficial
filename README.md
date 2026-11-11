@@ -53,9 +53,18 @@ npm i
 Após a instalação terminar, inicie o projeto executando:
 ```bash
 npm run dev
+```
 
 ```
 
+### 4. Acesse no navegador
+Abra o seu navegador de preferência e acesse o endereço padrão do Next.js:
+👉 **[http://localhost:3000](http://localhost:3000)**
+
+Pronto! Agora você já pode navegar pelo aplicativo, testar o scanner, acessar o mapa e conferir as categorias de descarte.
+
+
+```
 ## 👥 Equipe e Créditos
 
 Desenvolvido com dedicação pelos alunos de **Ciência da Computação do CUFSA**. Acreditamos que a tecnologia é a chave para cidades e comunidades mais sustentáveis.
